@@ -583,6 +583,16 @@
           }
         },
         {
+          "id": "com.mrh0:buildersaddition:1.20.1-20230928a@jar",
+          "name": "Builders Crafts & Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2426861,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/buildersaddition-1.20.1-20230928a.jar",
+            "MD5": "e8d37f350e7ef382a99f97f3460917e8"
+          }
+        },
+        {
           "id": "mirsario.cameraoverhaul:cameraoverhaul:1.0.0@jar",
           "name": "Camera Overhaul",
           "type": "ForgeMod",
@@ -1100,6 +1110,16 @@
             "size": 285351,
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/Placebo-1.20.1-8.6.2.jar",
             "MD5": "0b7358e758257452184a3a8f82f60abe"
+          }
+        },
+        {
+          "id": "com.delta:redeco:1.13@jar",
+          "name": "Re:Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2863788,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/redeco-1.13-1.20.jar",
+            "MD5": "824b2e768607b5b0efb6023751066a57"
           }
         },
         {
@@ -1792,6 +1812,28 @@
           }
         },
         {
+          "id": "arro1.png",
+          "name": "arro1.png",
+          "type": "File",
+          "artifact": {
+            "size": 296,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/arro1.png",
+            "MD5": "3bb2c06aa460e9ef37e8407573b79012",
+            "path": "config/fancymenu/assets/arro1.png"
+          }
+        },
+        {
+          "id": "arro2.png",
+          "name": "arro2.png",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/arro2.png",
+            "MD5": "f69d0551051225261e88990cc35cedd8",
+            "path": "config/fancymenu/assets/arro2.png"
+          }
+        },
+        {
           "id": "bars.png",
           "name": "bars.png",
           "type": "File",
@@ -1814,6 +1856,17 @@
           }
         },
         {
+          "id": "book1.png",
+          "name": "book1.png",
+          "type": "File",
+          "artifact": {
+            "size": 11228,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/book1.png",
+            "MD5": "6c40bb4e920a648c2142ba829907f4be",
+            "path": "config/fancymenu/assets/book1.png"
+          }
+        },
+        {
           "id": "button.png",
           "name": "button.png",
           "type": "File",
@@ -1833,6 +1886,17 @@
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/button2.png",
             "MD5": "2ad72ac8fa3f8737f5251805d453b6f3",
             "path": "config/fancymenu/assets/button2.png"
+          }
+        },
+        {
+          "id": "button3.png",
+          "name": "button3.png",
+          "type": "File",
+          "artifact": {
+            "size": 252,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/button3.png",
+            "MD5": "0b37cb838aea9716e3b1adc3bdc73e44",
+            "path": "config/fancymenu/assets/button3.png"
           }
         },
         {
@@ -3156,6 +3220,17 @@
           }
         },
         {
+          "id": "ffff.png",
+          "name": "ffff.png",
+          "type": "File",
+          "artifact": {
+            "size": 96934,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/ffff.png",
+            "MD5": "9c5c105fc4771bc50004799d0c96de04",
+            "path": "config/fancymenu/assets/ffff.png"
+          }
+        },
+        {
           "id": "slot.png",
           "name": "slot.png",
           "type": "File",
@@ -3164,6 +3239,17 @@
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/gamemode_switcher/slot.png",
             "MD5": "46f04b82ab6ced3d894a580117d4651b",
             "path": "config/fancymenu/assets/gamemode_switcher/slot.png"
+          }
+        },
+        {
+          "id": "global-searching-icon-white-background.jpg",
+          "name": "global-searching-icon-white-background.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 7840605,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/global-searching-icon-white-background.jpg",
+            "MD5": "bed9e85cff3627bab9a4ff94f433888b",
+            "path": "config/fancymenu/assets/global-searching-icon-white-background.jpg"
           }
         },
         {
@@ -3255,6 +3341,17 @@
           }
         },
         {
+          "id": "ijyutiu.png",
+          "name": "ijyutiu.png",
+          "type": "File",
+          "artifact": {
+            "size": 107417,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/ijyutiu.png",
+            "MD5": "7d47c47baacf35fd1679e06463401295",
+            "path": "config/fancymenu/assets/ijyutiu.png"
+          }
+        },
+        {
           "id": "image.png",
           "name": "image.png",
           "type": "File",
@@ -3263,6 +3360,17 @@
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/image.png",
             "MD5": "b64ba5429d3c2b0838fe9342722de0fe",
             "path": "config/fancymenu/assets/image.png"
+          }
+        },
+        {
+          "id": "krac.png",
+          "name": "krac.png",
+          "type": "File",
+          "artifact": {
+            "size": 284,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/krac.png",
+            "MD5": "aa74fbc1a9ddbfb0c56c9a99bb8d119d",
+            "path": "config/fancymenu/assets/krac.png"
           }
         },
         {
@@ -3299,17 +3407,6 @@
           }
         },
         {
-          "id": "options_background - alt.png",
-          "name": "options_background - alt.png",
-          "type": "File",
-          "artifact": {
-            "size": 1059,
-            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/options_background%20-%20alt.png",
-            "MD5": "1f5b103bb54f74f39b5cdb8dc9ff0d77",
-            "path": "config/fancymenu/assets/options_background - alt.png"
-          }
-        },
-        {
           "id": "options_background.png",
           "name": "options_background.png",
           "type": "File",
@@ -3318,6 +3415,28 @@
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/options_background.png",
             "MD5": "8af0f588d50002fcb96819e75002339e",
             "path": "config/fancymenu/assets/options_background.png"
+          }
+        },
+        {
+          "id": "options_backgroundalt.png",
+          "name": "options_backgroundalt.png",
+          "type": "File",
+          "artifact": {
+            "size": 1059,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/options_backgroundalt.png",
+            "MD5": "1f5b103bb54f74f39b5cdb8dc9ff0d77",
+            "path": "config/fancymenu/assets/options_backgroundalt.png"
+          }
+        },
+        {
+          "id": "pngwing.com.png",
+          "name": "pngwing.com.png",
+          "type": "File",
+          "artifact": {
+            "size": 31426,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/pngwing.com.png",
+            "MD5": "d283f806532b4ef68f3eb2f53e2d8b1b",
+            "path": "config/fancymenu/assets/pngwing.com.png"
           }
         },
         {
@@ -3970,6 +4089,17 @@
           }
         },
         {
+          "id": "tiktok-5962992_1280.png",
+          "name": "tiktok-5962992_1280.png",
+          "type": "File",
+          "artifact": {
+            "size": 90140,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/tiktok-5962992_1280.png",
+            "MD5": "6812f75840a161e97057955c04fbd37a",
+            "path": "config/fancymenu/assets/tiktok-5962992_1280.png"
+          }
+        },
+        {
           "id": "advancement.png",
           "name": "advancement.png",
           "type": "File",
@@ -4099,6 +4229,17 @@
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/transferable_list/unselect_highlighted.png",
             "MD5": "c41fc2b85a7fee8cc2ca72d38a14198f",
             "path": "config/fancymenu/assets/transferable_list/unselect_highlighted.png"
+          }
+        },
+        {
+          "id": "vecteezy_tiktok-social-media-logo-icon_21495986.png",
+          "name": "vecteezy_tiktok-social-media-logo-icon_21495986.png",
+          "type": "File",
+          "artifact": {
+            "size": 68931,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/vecteezy_tiktok-social-media-logo-icon_21495986.png",
+            "MD5": "0a2d75a94567cb49bfd3934dcfa10383",
+            "path": "config/fancymenu/assets/vecteezy_tiktok-social-media-logo-icon_21495986.png"
           }
         },
         {
@@ -4476,14 +4617,47 @@
           }
         },
         {
+          "id": "www.png",
+          "name": "www.png",
+          "type": "File",
+          "artifact": {
+            "size": 25310,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/assets/www.png",
+            "MD5": "7ac49bb47d1907d63c54a5b18822dc55",
+            "path": "config/fancymenu/assets/www.png"
+          }
+        },
+        {
           "id": "customizablemenus.txt",
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 149,
+            "size": 799,
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "3d2147ca590dabed1e2b6e8e8831da0d",
+            "MD5": "08c161e54592db74d7f4d24b693a42dc",
             "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "accessibility_options_screen_layout.txt",
+          "name": "accessibility_options_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4082,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/accessibility_options_screen_layout.txt",
+            "MD5": "63bad6aa74aa97911ec966b4e7f372b0",
+            "path": "config/fancymenu/customization/accessibility_options_screen_layout.txt"
+          }
+        },
+        {
+          "id": "connect_screen_layout.txt",
+          "name": "connect_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4177,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/connect_screen_layout.txt",
+            "MD5": "c0591a9bb0181028d0c0d981ec15c5f5",
+            "path": "config/fancymenu/customization/connect_screen_layout.txt"
           }
         },
         {
@@ -4498,13 +4672,145 @@
           }
         },
         {
+          "id": "generic_dirt_message_screen_layout.txt",
+          "name": "generic_dirt_message_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2453,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+            "MD5": "ba73ad6171131d11bdd1c2da53b30edf",
+            "path": "config/fancymenu/customization/generic_dirt_message_screen_layout.txt"
+          }
+        },
+        {
+          "id": "histoire1_layout.txt",
+          "name": "histoire1_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 8447,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/histoire1_layout.txt",
+            "MD5": "70248af6d8dedffa32242415fd090741",
+            "path": "config/fancymenu/customization/histoire1_layout.txt"
+          }
+        },
+        {
+          "id": "histoire2_layout.txt",
+          "name": "histoire2_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 10221,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/histoire2_layout.txt",
+            "MD5": "0186f698da3359a6221a3d625cbe646d",
+            "path": "config/fancymenu/customization/histoire2_layout.txt"
+          }
+        },
+        {
+          "id": "histoire3_layout.txt",
+          "name": "histoire3_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 8446,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/histoire3_layout.txt",
+            "MD5": "2016adba6fed63ded53c90bfd30c7b2b",
+            "path": "config/fancymenu/customization/histoire3_layout.txt"
+          }
+        },
+        {
+          "id": "join_multiplayer_screen_layout.txt",
+          "name": "join_multiplayer_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 13065,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+            "MD5": "3123680251682a315ef7b37fd67d9f73",
+            "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+          }
+        },
+        {
+          "id": "language_select_screen_layout.txt",
+          "name": "language_select_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4074,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/language_select_screen_layout.txt",
+            "MD5": "ddf43dfca583b5db14d4916ff89b02ad",
+            "path": "config/fancymenu/customization/language_select_screen_layout.txt"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris.gui.screen.shaderpackscreen_layout.txt",
+          "name": "net.irisshaders.iris.gui.screen.shaderpackscreen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 10963,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/net.irisshaders.iris.gui.screen.shaderpackscreen_layout.txt",
+            "MD5": "bb2d20fe7cc692c9e33b02ff8c385d96",
+            "path": "config/fancymenu/customization/net.irisshaders.iris.gui.screen.shaderpackscreen_layout.txt"
+          }
+        },
+        {
+          "id": "options_screen_layout.txt",
+          "name": "options_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 23364,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/options_screen_layout.txt",
+            "MD5": "c4475fd1c9961a1fe75b11940c393de2",
+            "path": "config/fancymenu/customization/options_screen_layout.txt"
+          }
+        },
+        {
+          "id": "pack_selection_screen_layout.txt",
+          "name": "pack_selection_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5813,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/pack_selection_screen_layout.txt",
+            "MD5": "bae30317d06de76054d2d85a9300f7a5",
+            "path": "config/fancymenu/customization/pack_selection_screen_layout.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 20553,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "354c047ffd1d2b223dcd6ab17f2586ea",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt"
+          }
+        },
+        {
+          "id": "skin_customization_screen_layout.txt",
+          "name": "skin_customization_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 15611,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/skin_customization_screen_layout.txt",
+            "MD5": "17aaa5442ce7f8458d4ea75274e04147",
+            "path": "config/fancymenu/customization/skin_customization_screen_layout.txt"
+          }
+        },
+        {
+          "id": "sound_options_screen_layout.txt",
+          "name": "sound_options_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2425,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/sound_options_screen_layout.txt",
+            "MD5": "8f590c65c66f3ab320dd064a2cd3f8e0",
+            "path": "config/fancymenu/customization/sound_options_screen_layout.txt"
+          }
+        },
+        {
           "id": "title_screen_layout.txt",
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 33707,
+            "size": 40332,
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "86b5e6067208541241e39a8d944a61af",
+            "MD5": "ffa2ae85ffabddcb091c885f6d2065d9",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -4513,9 +4819,9 @@
           "name": "custom_gui_screens.txt",
           "type": "File",
           "artifact": {
-            "size": 51,
+            "size": 576,
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
-            "MD5": "106e52948415f0879c53304f50783b28",
+            "MD5": "9296a7bda8c2f3fba1d86f0ce2942256",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
         },
@@ -4546,9 +4852,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1921,
+            "size": 1917,
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "4c7276a25aa60064c396e74af5392e12",
+            "MD5": "0f717a347f47e32a72ecaaff0888123d",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -4583,6 +4889,127 @@
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "ctp_1.2_MCv3.zip",
+          "name": "ctp_1.2_MCv3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 344544,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/ctp_1.2_MCv3.zip",
+            "MD5": "5a1ed526605bae5afca84c7deb1042f2",
+            "path": "resourcepacks/ctp_1.2_MCv3.zip"
+          }
+        },
+        {
+          "id": "Dot Crosshair.zip",
+          "name": "Dot Crosshair.zip",
+          "type": "File",
+          "artifact": {
+            "size": 15099,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/Dot%20Crosshair.zip",
+            "MD5": "808f46a022dc0fa658065535e2248a43",
+            "path": "resourcepacks/Dot Crosshair.zip"
+          }
+        },
+        {
+          "id": "Enhanced Audio r6.zip",
+          "name": "Enhanced Audio r6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 9383846,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/Enhanced%20Audio%20r6.zip",
+            "MD5": "8ee4dd1f3b548868d6d3191b385a50ff",
+            "path": "resourcepacks/Enhanced Audio r6.zip"
+          }
+        },
+        {
+          "id": "Faithful 32x - 1.20.1.zip",
+          "name": "Faithful 32x - 1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 8373475,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/Faithful%2032x%20-%201.20.1.zip",
+            "MD5": "53ed96430fd529a9a71450c27c34437d",
+            "path": "resourcepacks/Faithful 32x - 1.20.1.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.9.2.zip",
+          "name": "FreshAnimations_v1.9.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 516256,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
+            "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+          }
+        },
+        {
+          "id": "Midnighttiggers-FCT-Default_1.20_V4.zip",
+          "name": "Midnighttiggers-FCT-Default_1.20_V4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 259602,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/Midnighttiggers-FCT-Default_1.20_V4.zip",
+            "MD5": "d9d76a3d5853b76949e503b6a9bb1355",
+            "path": "resourcepacks/Midnighttiggers-FCT-Default_1.20_V4.zip"
+          }
+        },
+        {
+          "id": "Realistic Rain v1.0.0.zip",
+          "name": "Realistic Rain v1.0.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 18708152,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/Realistic%20Rain%20v1.0.0.zip",
+            "MD5": "1eefde5310d7e301953696a14e5b929d",
+            "path": "resourcepacks/Realistic Rain v1.0.0.zip"
+          }
+        },
+        {
+          "id": "Round-Trees-7.1-1.19+.zip",
+          "name": "Round-Trees-7.1-1.19+.zip",
+          "type": "File",
+          "artifact": {
+            "size": 144060,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/Round-Trees-7.1-1.19+.zip",
+            "MD5": "081b608fc0fdd48878d3e1d19b53cda2",
+            "path": "resourcepacks/Round-Trees-7.1-1.19+.zip"
+          }
+        },
+        {
+          "id": "Simply Ladders.zip",
+          "name": "Simply Ladders.zip",
+          "type": "File",
+          "artifact": {
+            "size": 141985,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/Simply%20Ladders.zip",
+            "MD5": "abcc94a11b8c671ddfd02dd398844c16",
+            "path": "resourcepacks/Simply Ladders.zip"
+          }
+        },
+        {
+          "id": "TZP_1.20.1_2.7.zip",
+          "name": "TZP_1.20.1_2.7.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14177090,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/TZP_1.20.1_2.7.zip",
+            "MD5": "9c0fe8ecd9931b0121ab939425dd7b1e",
+            "path": "resourcepacks/TZP_1.20.1_2.7.zip"
+          }
+        },
+        {
+          "id": "§eExtended_Illumina_1.20x.zip",
+          "name": "§eExtended_Illumina_1.20x.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4866,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/resourcepacks/%C2%A7eExtended_Illumina_1.20x.zip",
+            "MD5": "5373a758fc6d050181f94ca577f1394b",
+            "path": "resourcepacks/§eExtended_Illumina_1.20x.zip"
           }
         },
         {
