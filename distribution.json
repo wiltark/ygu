@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://eldoria-mc.fr/api/rss",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -760,16 +760,6 @@
             "size": 71441,
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/entityculling-forge-1.7.0-mc1.20.1.jar",
             "MD5": "972ecec86e34cf5e2172c15e6e68119b"
-          }
-        },
-        {
-          "id": "com.eruannie_9:extragore:5.2.3.1@jar",
-          "name": "Extra Gore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 49559,
-            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/extragore-1.20.1-5.2.3.1.jar",
-            "MD5": "8fbaa00916effaa17b8ef00bf8eb259a"
           }
         },
         {
@@ -4593,6 +4583,105 @@
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "Chocapic13_V9.1_Extreme_beta_5.zip",
+          "name": "Chocapic13_V9.1_Extreme_beta_5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3675622,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip",
+            "MD5": "d37f4ccb2987c75b9568b90a552e8d20",
+            "path": "shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9.1_Extreme_beta_5.zip.txt",
+          "name": "Chocapic13_V9.1_Extreme_beta_5.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1002,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip.txt",
+            "MD5": "dd407ac68d689e359199fd9c0de42d1b",
+            "path": "shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip.txt"
+          }
+        },
+        {
+          "id": "Chocapic13_V9.zip",
+          "name": "Chocapic13_V9.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14149623,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9.zip",
+            "MD5": "370978c21f154a0022c4d5b5703b790b",
+            "path": "shaderpacks/Chocapic13_V9.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Extreme.zip",
+          "name": "Chocapic13_V9_Extreme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3134623,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9_Extreme.zip",
+            "MD5": "2a5ec76ad7acc47005e32cc1e5da1e41",
+            "path": "shaderpacks/Chocapic13_V9_Extreme.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_High.zip",
+          "name": "Chocapic13_V9_High.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3134568,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9_High.zip",
+            "MD5": "29c39e1d1e6030b14e3db3f65c38ce05",
+            "path": "shaderpacks/Chocapic13_V9_High.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Low.zip",
+          "name": "Chocapic13_V9_Low.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2421404,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9_Low.zip",
+            "MD5": "c370a206d8d2ddfaab218c1561a57ec7",
+            "path": "shaderpacks/Chocapic13_V9_Low.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Medium.zip",
+          "name": "Chocapic13_V9_Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2428092,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9_Medium.zip",
+            "MD5": "55e6328b1ca9e1208f8034bc6983f5c3",
+            "path": "shaderpacks/Chocapic13_V9_Medium.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Ultra.zip",
+          "name": "Chocapic13_V9_Ultra.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3134570,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/Chocapic13_V9_Ultra.zip",
+            "MD5": "46d8fcd102bdaa4340c37a137135a2bc",
+            "path": "shaderpacks/Chocapic13_V9_Ultra.zip"
+          }
+        },
+        {
+          "id": "SEUS PTGI HRR Test 2.1 (1).zip",
+          "name": "SEUS PTGI HRR Test 2.1 (1).zip",
+          "type": "File",
+          "artifact": {
+            "size": 4402258,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/files/shaderpacks/SEUS%20PTGI%20HRR%20Test%202.1%20(1).zip",
+            "MD5": "a2f6feaf818e09dafd9a2afedcae5ba0",
+            "path": "shaderpacks/SEUS PTGI HRR Test 2.1 (1).zip"
           }
         }
       ]
