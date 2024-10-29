@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "eldoria-1.20.1",
+      "id": "Eldoria | 1.20.1",
       "name": "eldoria (Minecraft 1.20.1)",
       "description": "eldoria | 1.20.1 (Forge v47.3.0)",
       "icon": "https://eldoria-mc.fr/storage/img/logo.png",
@@ -883,6 +883,16 @@
           }
         },
         {
+          "id": "immersive_aircraft:immersive_aircraft:1.1.2+1.20.1@jar",
+          "name": "Immersive Aircraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2173969,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/immersive_aircraft-1.1.2+1.20.1-forge.jar",
+            "MD5": "ec2d6eff2efcf2a065bcd6f96baf1342"
+          }
+        },
+        {
           "id": "ironfurnaces:ironfurnaces:4.1.6@jar",
           "name": "Iron Furnaces",
           "type": "ForgeMod",
@@ -950,6 +960,26 @@
             "size": 1855691,
             "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/magic_vibe_decorations-1.0.4-forge-1.20.1.jar",
             "MD5": "e284f52c4622c32efc5f6a25c5bfa932"
+          }
+        },
+        {
+          "id": "net.marblednull:marbledsarsenal:1.20.1-2.3.0@jar",
+          "name": "Marbled's Arsenal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 470908,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/marbledsarsenal-1.20.1-2.3.0.jar",
+            "MD5": "85d09c1a18cc4f8e7bb0ce0a6faaf8d3"
+          }
+        },
+        {
+          "id": "net.marblednull:mcore:1.0.1@jar",
+          "name": "Marbled's Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 128531,
+            "url": "http://node.p.m.stiala.org:60334/eldoria-mc/servers/eldoria-1.20.1/forgemods/required/mcore-1.20.1-1.0.1.jar",
+            "MD5": "7a0f9997b4b2c5f0c27550a027a61ecc"
           }
         },
         {
